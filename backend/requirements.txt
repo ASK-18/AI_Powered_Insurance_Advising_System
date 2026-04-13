@@ -1,0 +1,35 @@
+fastapi
+uvicorn
+pydantic
+pymongo
+bcrypt
+python-dotenv
+joblib
+numpy
+pandas
+xgboost
+scikit-learn
+matplotlib
+seaborn
+joblib
+pydantic
+langchain
+uvicorn
+fastapi
+fastapi
+uvicorn
+python-dotenv
+huggingface-hub
+langchain
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
+pypdf
+# Uncomment when swapping in your real ML model:
+# scikit-learn==1.4.2
+# joblib==1.4.0
+# pandas==2.2.2
+# numpy==1.26.4
